@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221945103214",
+    "firebase_url": "https://rice-in-case-of-emergency.firebaseio.com",
+    "project_id": "rice-in-case-of-emergency",
+    "storage_bucket": "rice-in-case-of-emergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221945103214:android:1e979e3a738c08244cf77f",
+        "android_client_info": {
+          "package_name": "com.rice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221945103214-m24rd2rsikfubf1c32ps2vnr3d35h1ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoXslaFjqR7IE7KHmPAwsiQ6seGJMxd0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221945103214-m24rd2rsikfubf1c32ps2vnr3d35h1ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
